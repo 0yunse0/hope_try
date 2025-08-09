@@ -41,48 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCyCEi4v-5Y9xpnthihXcpsPgP1QQ-kxxk',
-    appId: '1:727784932623:web:2fcbe4894a6549845cea7a',
-    messagingSenderId: '727784932623',
-    projectId: 'hope-try',
-    authDomain: 'hope-try.firebaseapp.com',
-    storageBucket: 'hope-try.firebasestorage.app',
+    apiKey: 'AIzaSyDDaq-qPIcDShmJd-PA3plkp8IaLjMP1po',
+    appId: '1:981936821405:web:a730165b6e49681c223074',
+    messagingSenderId: '981936821405',
+    projectId: 'reface-4e1b9',
+    authDomain: 'reface-4e1b9.firebaseapp.com',
+    storageBucket: 'reface-4e1b9.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDkRQppAQMYAnuipiC0KHdINgm5PGI1X7g',
-    appId: '1:727784932623:android:04baef890826f0735cea7a',
-    messagingSenderId: '727784932623',
-    projectId: 'hope-try',
-    authDomain: "hope-try.firebaseapp.com",
-    storageBucket: 'hope-try.firebasestorage.app',
+    apiKey: 'AIzaSyAIf9C4rSIRM6U1Uz-sYeK0SYI2JaHcLvE',
+    appId: '1:981936821405:android:7f0b262f0917a9b1223074',
+    messagingSenderId: '981936821405',
+    projectId: 'reface-4e1b9',
+    storageBucket: 'reface-4e1b9.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA0NZ3rAh6zthB466qYrjvDl6UfzRMtTPg',
-    appId: '1:727784932623:ios:36cbabc48da278055cea7a',
-    messagingSenderId: '727784932623',
-    projectId: 'hope-try',
-    storageBucket: 'hope-try.firebasestorage.app',
-    iosBundleId: 'com.example.hopeTry',
+    apiKey: 'AIzaSyCgusj0yt-MF1fd5nK_hITdXPSHXipcl6E',
+    appId: '1:981936821405:ios:b86686ce46ea58ab223074',
+    messagingSenderId: '981936821405',
+    projectId: 'reface-4e1b9',
+    storageBucket: 'reface-4e1b9.firebasestorage.app',
+    iosBundleId: 'com.example.testAuthApp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA0NZ3rAh6zthB466qYrjvDl6UfzRMtTPg',
-    appId: '1:727784932623:ios:36cbabc48da278055cea7a',
-    messagingSenderId: '727784932623',
-    projectId: 'hope-try',
-    storageBucket: 'hope-try.firebasestorage.app',
-    iosBundleId: 'com.example.hopeTry',
+    apiKey: 'AIzaSyCgusj0yt-MF1fd5nK_hITdXPSHXipcl6E',
+    appId: '1:981936821405:ios:b86686ce46ea58ab223074',
+    messagingSenderId: '981936821405',
+    projectId: 'reface-4e1b9',
+    storageBucket: 'reface-4e1b9.firebasestorage.app',
+    iosBundleId: 'com.example.testAuthApp',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCyCEi4v-5Y9xpnthihXcpsPgP1QQ-kxxk',
-    appId: '1:727784932623:web:03d9ddf82907bd6d5cea7a',
-    messagingSenderId: '727784932623',
-    projectId: 'hope-try',
-    authDomain: 'hope-try.firebaseapp.com',
-    storageBucket: 'hope-try.firebasestorage.app',
+    apiKey: 'AIzaSyDDaq-qPIcDShmJd-PA3plkp8IaLjMP1po',
+    appId: '1:981936821405:web:cfb1f03d09e0b303223074',
+    messagingSenderId: '981936821405',
+    projectId: 'reface-4e1b9',
+    authDomain: 'reface-4e1b9.firebaseapp.com',
+    storageBucket: 'reface-4e1b9.firebasestorage.app',
   );
-
 }
